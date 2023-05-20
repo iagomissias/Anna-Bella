@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"option"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"t",
+				"tr"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"Ele",
+				"Eletronica"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"elem",
+				"element1"
+			],
+			[
+				"ser",
+				"servico3"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"BA",
+				"background-position"
+			],
+			[
+				"container",
+				"container-fotos"
+			],
+			[
+				"ca",
+				"carousel-item"
+			],
+			[
+				"car",
+				"carousel-item"
+			],
+			[
+				"line",
+				"line-break"
+			],
+			[
+				"con",
+				"conntainer"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"ha",
+				"header"
+			],
+			[
+				"sv",
+				"SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"iim",
+				"image-resolution"
+			],
+			[
+				"i",
+				"image-orientation"
+			],
+			[
+				"se",
+				"serviços"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"background-",
+				"background-repeat"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"he",
+				"height\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/s3598/Documents/Desenvolvimento WEB/TecBlog/Index.html",
+		"/C/Users/s3598/Documents/Desenvolvimento WEB/mecanica/imagens/normalize.css",
+		"/C/Users/s3598/Documents/Desenvolvimento WEB/mecanica/estilo.css",
+		"/C/Users/s3598/Documents/Desenvolvimento WEB/mecanica/servico.html",
+		"/C/Users/s3598/Documents/Desenvolvimento WEB/mecanica/Quem-somos.html",
+		"/C/Users/s3598/Documents/Desenvolvimento WEB/Resolvepersonal/Quemsomos.html",
+		"/C/Users/s3598/Documents/Desenvolvimento WEB/mecanica/index.html",
+		"/C/Users/s3598/Downloads/1c-arquivos-aula-carousel.sublime-workspace",
+		"/C/Users/s3598/Documents/Desenvolvimento WEB/mecanica/imagens/Logo.png",
+		"/C/Users/s3598/Documents/Desenvolvimento WEB/mecanica/subistituindo.html",
+		"/C/Users/s3598/Downloads/bootstrap-4.1.3-dist.zip",
+		"/C/Users/s3598/Downloads/bateria.jpg",
+		"/C/Users/s3598/Downloads/python-3.11.2-amd64.exe",
+		"/C/Users/s3598/Documents/Desenvolvimento WEB/Resolvepersonal/Contato.html",
+		"/C/Users/s3598/Desktop/Desenvolvimento WEB/Resolvepersonal/Contato.html",
+		"/C/Users/s3598/Desktop/Desenvolvimento WEB/Site de tecnologia/Imagens/index.html",
+		"/C/Users/s3598/Desktop/Curso de Desenvolvimento web/Css/modelo.css",
+		"/C/Users/s3598/Desktop/Curso de Desenvolvimento web/Css/caixa-modelo.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/Css/site de Modelo/contato.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/Css/site de Modelo/biografia.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/Css/site de Modelo/campanha.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/Css/site de Modelo/estilo.css",
+		"/C/Users/s3598/Desktop/primeiro projeto/Css/site de Modelo/index.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/Css/site de Modelo/Biografia.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/Css/index.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/Css/classesid.html",
+		"/C/Users/s3598/Desktop/Resolvepersonal/index.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/Css/formatacoes.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/Arquivos/fundo.png",
+		"/C/Users/s3598/Desktop/primeiro projeto/Escola.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/index.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/Imagem.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/1ºProva.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/primeiroprojeto.html",
+		"/C/Users/s3598/Desktop/primeiro projeto/imagens/ferrari.webp"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
